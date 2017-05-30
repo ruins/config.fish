@@ -1,0 +1,6 @@
+alias ga 'git add -A'
+alias gc 'git commit'
+alias gd 'git diff'
+alias gs 'git status --short --branch'
+alias gss 'git fetch; git status'
+alias gl 'git log -20 --short --branch --decorate'
